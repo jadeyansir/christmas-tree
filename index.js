@@ -5,7 +5,7 @@ startButton.addEventListener('click', start)
 
 // 打字机效果
 $('.example1').typeIt({
-  whatToType: "祝张婉儿圣诞快乐, 这里有一份专属于你的圣诞礼物, 希望以后的每个圣诞, 我都会陪你度过 --by 闫琦.",
+  whatToType: "祝张婉儿圣诞快乐, 圣诞老人比较忙, 托我来祝福你, 圣诞阳光为你而灿烂, 圣诞雪花因你而浪漫, 希望你平安喜乐, 得偿所愿.",
   typeSpeed: 100,
 }, ()=>{});
 
